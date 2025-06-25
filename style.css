@@ -1,0 +1,20 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
+        h1 { color: #2c3e50; }
+        ul { background: #fff; padding: 20px; border-radius: 10px; list-style: none; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        li { margin: 10px 0; }
+        a { text-decoration: none; color: #2980b9; font-weight: bold; }
+        a:hover { color: #1abc9c; }
+
+
+
+header { 
+  text-align: center; 
+  padding: 1rem; }
+
+footer { 
+
+  text-align: center; 
+  padding: 1rem;
+
+}
+
