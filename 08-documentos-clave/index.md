@@ -1,3 +1,7 @@
+Este neutral o esto y valido
+
+
+
 # 📘 Bitácora Semanal Miguel Ángel R. R.
 **Periodo:** Viernes 28 de junio – Martes 2 de julio de 2025  
 **Formato:** Técnica + Emocional + Psicológica + Jurídica  
