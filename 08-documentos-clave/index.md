@@ -1,20 +1,4 @@
 
-Navigation Menu
-Plan_Personal_Miguel_Adicciones
-
-Code
-Issues
-Pull requests
-Plan_Personal_Miguel_Adicciones/08-documentos-clave
-/Informe_Respaldo_Acciones_Miguel.md
-MiguelAngelkatoFull
-MiguelAngelkatoFull
-3 minutes ago
-76 lines (51 loc) · 3.94 KB
-
-Preview
-
-Code
 
 Blame
 📑 Informe de Validación y Respaldo Técnico-Personal
