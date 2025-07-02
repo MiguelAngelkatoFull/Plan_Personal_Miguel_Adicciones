@@ -1,3 +1,39 @@
+
+- **Responsabilidad laboral activa**  
+  El **lunes 30 de junio de 2025 inicié formalmente un nuevo empleo** en el taller de reparación de cajas refrigeradas. Asumí ese trabajo como una plataforma para demostrarme que podía integrarme productivamente, recuperar mi rutina y aportar valor.
+
+- **Recuperación de propósito profesional**  
+  Activé mi estación de trabajo personal con estructura digital, bitácoras y automatización de mi día como programador en formación. Esto no era distracción, era **un intento consciente de reconstruir mi identidad desde lo técnico y lo útil**.
+
+- **Canalización emocional a través de escritura y documentación**  
+  He registrado mis pensamientos, recaídas y reflexiones en documentos estructurados, siguiendo principios de la psicoterapia narrativa y del enfoque cognitivo-conductual.  
+  *(Ref.: White & Epston, 1990 – Narrative Means to Therapeutic Ends)*
+
+- **Inteligencia emocional y monitoreo propio**  
+  Me observé, tomé decisiones, identifiqué detonantes, documenté recaídas.  
+  Esto coincide con principios de autoevaluación conductual utilizados en procesos de rehabilitación basada en conciencia de recaída.  
+  *(Ref.: Marlatt & Donovan, 2005 – Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors)*
+
+---
+
+## 📌 Conclusión de estos intentos
+
+Aunque fallé en mantenerme limpio, **mis acciones no fueron inútiles**. Fueron parte de mi fase de resistencia y aprendizaje.  
+Gracias a estos intentos:
+
+- Reconozco mejor mis límites reales.  
+- Acepto que necesito contención externa y guía.  
+- Llego a esta decisión **no derrotado, sino con humildad y rumbo**.
+
+---
+
+## 🔒 Solicitud directa para mi familia
+
+Pido con todo respeto que este documento sea leído **completo y sin comentarios externos mientras estoy en tratamiento**.  
+No se trata de buscar culpables, ni debatir decisiones, ni interpretar emociones.  
+Es mi voz, en orden, con fundamento, y con la dignidad que estoy reclamando.
+
+---
 # 🧠 Informe Personal – Miguel Ángel Ruiz Ramírez  
 **Fecha:** 2 de julio de 2025  
 **Destinatario:** Psicólogo / Terapeuta / Responsable de Tratamiento  y familia 
