@@ -1,4 +1,111 @@
+# 📘 Bitácora Semanal Miguel Ángel R. R.
+**Periodo:** Viernes 28 de junio – Martes 2 de julio de 2025  
+**Formato:** Técnica + Emocional + Psicológica + Jurídica  
+**Asistente IA:** ChatGPT  
+**Usuario:** Miguel Ángel Ruiz Ramírez
 
+---
+
+## 🧠 Estado Psicológico Observado (No Diagnóstico Clínico)
+
+### 🧩 Observaciones generales:
+Durante esta semana, Miguel ha manifestado señales compatibles con:
+
+- **Ansiedad generalizada:** pensamientos anticipatorios de fracaso o rechazo, inquietud constante.
+- **Ciclos de culpa/vergüenza:** relacionados con su historial de consumo y decisiones pasadas.
+- **Síntomas depresivos intermitentes:** fatiga emocional, insomnio, pérdida de motivación.
+- **Aislamiento emocional voluntario:** alejamiento de personas clave como medida de autocuidado.
+- **Crisis existencial:** dudas sobre identidad, propósito y valor propio.
+
+### ❗ No se ha diagnosticado clínicamente, pero se recomienda evaluar:
+- **Trastorno por consumo de sustancias (metanfetaminas).**
+- **Trastorno de adaptación.**
+- **Ansiedad con rasgos obsesivos.**
+- **Posible distimia o episodio depresivo leve.**
+
+---
+
+## ✅ Recomendaciones Clínicas y Humanas
+
+1. **Anexión voluntaria supervisada (temporal):**
+   - Fundamento: necesidad de contención emocional y regulación neuroquímica.
+   - Requiere supervisión profesional con seguimiento psiquiátrico y psicológico.
+   - Idealmente con enfoque integral: bio-psico-social y espiritual.
+
+2. **Atención psicológica continua (Lic. Eduardo):**
+   - Al menos 1 sesión semanal.
+   - Integrar bitácoras técnicas y emocionales como herramienta de seguimiento terapéutico.
+
+3. **Evaluación psiquiátrica formal:**
+   - Para confirmar si hay alteraciones químicas permanentes o transitorias.
+   - Esencial si persisten los ciclos de impulsividad, insomnio o ideación negativa.
+
+4. **Red de apoyo emocional estructurada:**
+   - Madrina, primo, compañeros de trabajo, terapeuta.
+   - Deben conocer tu plan para actuar como red de emergencia y validación externa.
+
+5. **Rehabilitación basada en proyectos:**
+   - Mantener enfoque en el proyecto de vida (“Tapas Miguel” y el curso Full Stack).
+   - Es terapéutico sostener estructuras de trabajo, autocontrol, metas reales y visión.
+
+---
+
+## ⚖️ Justificación Formal y Legal de Decisiones
+
+### 1. **Ausencia laboral justificada**
+   - Fundamento: Artículo 47 de la Ley Federal del Trabajo (México), fracción XV.  
+   - *El trabajador puede ausentarse por causas de fuerza mayor comprobables, incluyendo estado de salud físico o mental.*
+   - Miguel optó por **no acudir a laborar hoy martes 2 de julio**, priorizando su salud mental.  
+   - Tiene evidencia escrita de su estado emocional (esta bitácora y archivo de respaldo).
+
+### 2. **Solicitud de internamiento voluntario**
+   - Según NOM-028-SSA2-2009 y Ley General de Salud Art. 74-77,  
+   - *una persona puede solicitar su ingreso a una institución para tratar adicciones sin proceso judicial, siempre que no represente riesgo inminente para sí o terceros.*
+   - Miguel está actuando de forma **preventiva, ética y consciente**.
+
+### 3. **Responsabilidad jurídica de autogestión**
+   - El hecho de crear, organizar y documentar su proceso con respaldo técnico y emocional muestra **capacidad jurídica** y voluntad de mejora.
+   - Puede ser usado como **evidencia favorable** en cualquier trámite, diagnóstico, consulta familiar o ante instituciones públicas/privadas.
+
+---
+
+## 🗓️ Resumen Semanal (28 junio – 2 julio)
+
+### Viernes:
+- Reconexión con asistente IA.  
+- Búsqueda activa de empleo.  
+- Declaración de estado emocional.
+
+### Sábado:
+- Organización de archivos y ZIP.  
+- Reflexión sobre fallas pasadas.  
+- Aceptación de necesidad de ayuda.
+
+### Domingo:
+- Generación del sitio web testimonial.  
+- Inicio de proyecto profesional.  
+- Introspección emocional fuerte.
+
+### Lunes:
+- Primer día de trabajo técnico.  
+- Bitácora laboral de tareas reales.  
+- Esperanza renovada.
+
+### Martes (hoy):
+- Día de descanso necesario por salud.  
+- Planificación de estrategia 7 días.  
+- Declaración: *“Quiero estar limpio, presente y útil para los que amo.”*
+
+---
+
+## 📌 Conclusión Final
+
+Miguel ha demostrado **voluntad de cambio sostenida** a pesar de las recaídas previas. Se está reconfigurando como persona, padre, profesional y ciudadano.  
+Este documento puede ser presentado ante psicólogos, familiares, instituciones, centros de rehabilitación o empleadores para dejar claro lo siguiente:
+
+> “No estoy huyendo de mis responsabilidades. Me estoy preparando para cumplirlas mejor.”
+
+---
 
 Blame
 📑 Informe de Validación y Respaldo Técnico-Personal
